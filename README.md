@@ -1,5 +1,7 @@
 # CoderSchool FTW - Cheetah - React Boilerplate Generator
 
+Boilerplate Generator for React projects during CoderSchool FTW - Cheetah.
+
 ## Usage
 
 ```
